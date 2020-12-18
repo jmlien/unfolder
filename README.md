@@ -1,7 +1,7 @@
 # unfolder: a software to unfold a mesh
 
 ## Objective
-You goal is to provide an implementation of a couple of unfolding heuristics from 'Schlickenrieder, Wolfram. "Nets of polyhedra." Master's Thesis, Technische Universität Berlin (1997).'
+Your goal is to provide an implementation of a couple of unfolding heuristics from 'Schlickenrieder, Wolfram. "Nets of polyhedra." Master's Thesis, Technische Universität Berlin (1997).'
 * You can download his thesis from [this link](https://scholar.google.com/scholar?q=Nets%20of%20polyhedra)
 
 ## Compile and run
